@@ -15,10 +15,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Midfielder",
@@ -46,10 +46,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Midfielder",
@@ -77,10 +77,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Defender",
@@ -108,10 +108,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Legend",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Midfielder",
@@ -141,10 +141,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Legend",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Forward",
@@ -172,10 +172,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "West Ham Fa Cup",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Midfielder",
@@ -203,10 +203,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "PSG 50th Anniversary",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Forward",
@@ -234,10 +234,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "PSG 50th Anniversary",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Midfielder",
@@ -267,10 +267,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Midfielder",
@@ -298,10 +298,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Defender",
@@ -329,10 +329,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Forward",
@@ -360,10 +360,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Goalkeeper",
@@ -393,10 +393,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Midfielder",
@@ -424,10 +424,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Midfielder",
@@ -455,10 +455,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Forward",
@@ -486,10 +486,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Forward",
@@ -519,10 +519,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Midfielder",
@@ -550,10 +550,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Defender",
@@ -581,10 +581,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Midfielder",
@@ -612,10 +612,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Forward",
@@ -645,10 +645,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Goalkeeper",
@@ -676,10 +676,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Goalkeeper",
@@ -707,10 +707,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Midfielder",
@@ -738,10 +738,10 @@ final List<BinderPageModel> soRareBinderPages = [
           name: "Edition",
           value: "Classic",
         ),
-        TokenAttributeModel(
+        /*TokenAttributeModel(
           name: "Jersey",
           value: "Home",
-        ),
+        ),*/
         TokenAttributeModel(
           name: "Position",
           value: "Forward",

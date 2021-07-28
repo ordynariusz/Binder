@@ -30,14 +30,6 @@ class MyApp extends StatelessWidget {
   }
 
   Route<dynamic> _onGenerateRoute(RouteSettings settings) {
-    if (settings.name == '/') {
-      return MaterialPageRoute(
-        builder: (context) => PreCache(
-          screen: HomeScreen(),
-        ),
-      );
-    }
-
     Uri uri = Uri.parse(settings.name);
 
     if (uri.pathSegments.length == 2 && uri.pathSegments.first == 'binders') {
@@ -86,6 +78,11 @@ class PreCache extends StatelessWidget {
 
       await precacheImage(
         AssetImage("images/binder_outside.png"),
+        context,
+      );
+
+      await precacheImage(
+        AssetImage("images/icon-small.jpg"),
         context,
       );
 

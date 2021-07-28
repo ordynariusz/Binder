@@ -1,12 +1,12 @@
 {
-    "name": "binder",
-    "short_name": "binder",
+    "name": "DeedBinder",
+    "short_name": "DeedBinder",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "description": "The fun way to show off your NFTs!",
+    "orientation": "landscape-primary",
     "prefer_related_applications": false,
     "icons": [
         {

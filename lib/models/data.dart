@@ -98,7 +98,7 @@ final Map<String, BinderModel> binders = {
     frame: '',
   ),
   'sorare': BinderModel(
-    owner: 'Milad',
+    owner: 'Steve',
     title: 'Sorare',
     pages: soRareBinderPages,
     id: 'sorare',

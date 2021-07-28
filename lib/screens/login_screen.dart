@@ -1,7 +1,4 @@
-import 'package:auto_size_text/auto_size_text.dart';
-import 'package:binder/services/auth_service.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_signin_button/flutter_signin_button.dart';
 
 class LoginScreen extends StatelessWidget {
   const LoginScreen({Key key}) : super(key: key);
@@ -27,7 +24,7 @@ class LoginScreen extends StatelessWidget {
             Spacer(
               flex: 3,
             ),
-            Padding(
+            /* Padding(
               padding: EdgeInsets.symmetric(horizontal: 30.0),
               child: AutoSizeText(
                 "GAME ITEMS PORTFOLIO",
@@ -48,11 +45,11 @@ class LoginScreen extends StatelessWidget {
             Spacer(
               flex: 1,
             ),
-            SignInButton(
+             SignInButton(
               Buttons.Google,
               text: "Sign up with Google",
               onPressed: () => AuthService.singInWithGoogle(),
-            ),
+            ),*/
             Spacer(
               flex: 2,
             ),

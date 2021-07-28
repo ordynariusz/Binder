@@ -3,7 +3,7 @@ import 'package:binder/models/data.dart';
 final List<BinderPageModel> axieBinderPages = [
   BinderPageModel(
     s1: TokenSlotModel(
-        name: 'Axie 12015',
+        name: '#12015',
         img: 'images/axie/Axie-12015.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -29,7 +29,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s2: TokenSlotModel(
-        name: 'Axie 28672',
+        name: '#28672',
         img: 'images/axie/Axie-28672.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -55,7 +55,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s3: TokenSlotModel(
-        name: 'Axie 28804',
+        name: '#28804',
         img: 'images/axie/Axie-28804.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -81,7 +81,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s4: TokenSlotModel(
-        name: 'Axie 34025',
+        name: '#34025',
         img: 'images/axie/Axie-34025.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -109,7 +109,7 @@ final List<BinderPageModel> axieBinderPages = [
   ),
   BinderPageModel(
     s1: TokenSlotModel(
-        name: 'Axie 49798',
+        name: '#49798',
         img: 'images/axie/Axie-49798.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -135,7 +135,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s2: TokenSlotModel(
-        name: 'Axie 52523',
+        name: '#52523',
         img: 'images/axie/Axie-52523.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -161,7 +161,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s3: TokenSlotModel(
-        name: 'Axie 57010',
+        name: '#57010',
         img: 'images/axie/Axie-57010.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -187,7 +187,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s4: TokenSlotModel(
-        name: 'Axie 713516',
+        name: '#713516',
         img: 'images/axie/Axie-713516.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -215,7 +215,7 @@ final List<BinderPageModel> axieBinderPages = [
   ),
   BinderPageModel(
     s1: TokenSlotModel(
-        name: 'Axie 95417',
+        name: '#95417',
         img: 'images/axie/Axie-95417.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -241,7 +241,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s2: TokenSlotModel(
-        name: 'Axie 130135',
+        name: '#130135',
         img: 'images/axie/Axie-130135.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -267,7 +267,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s3: TokenSlotModel(
-        name: 'Axie 190586',
+        name: '#190586',
         img: 'images/axie/Axie-190586.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -293,7 +293,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s4: TokenSlotModel(
-        name: 'Axie 218447',
+        name: '#218447',
         img: 'images/axie/Axie-218447.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -321,7 +321,7 @@ final List<BinderPageModel> axieBinderPages = [
   ),
   BinderPageModel(
     s1: TokenSlotModel(
-        name: 'Axie 218574',
+        name: '#218574',
         img: 'images/axie/Axie-218574.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -347,7 +347,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s2: TokenSlotModel(
-        name: 'Axie 229879',
+        name: '#229879',
         img: 'images/axie/Axie-229879.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -373,7 +373,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s3: TokenSlotModel(
-        name: 'Axie 478678',
+        name: '#478678',
         img: 'images/axie/Axie-478678.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -399,7 +399,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s4: TokenSlotModel(
-        name: 'Axie 602558',
+        name: '#602558',
         img: 'images/axie/Axie-602558.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -427,7 +427,7 @@ final List<BinderPageModel> axieBinderPages = [
   ),
   BinderPageModel(
     s1: TokenSlotModel(
-        name: 'Axie 609939',
+        name: '#609939',
         img: 'images/axie/Axie-609939.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -453,7 +453,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s2: TokenSlotModel(
-        name: 'Axie 713516',
+        name: '#713516',
         img: 'images/axie/Axie-713516.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -479,7 +479,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s3: TokenSlotModel(
-        name: 'Axie 725747',
+        name: '#725747',
         img: 'images/axie/Axie-725747.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -505,7 +505,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s4: TokenSlotModel(
-        name: 'Axie 745350',
+        name: '#745350',
         img: 'images/axie/Axie-745350.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -533,7 +533,7 @@ final List<BinderPageModel> axieBinderPages = [
   ),
   BinderPageModel(
     s1: TokenSlotModel(
-        name: 'Axie 747606',
+        name: '#747606',
         img: 'images/axie/Axie-747606.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -559,7 +559,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s2: TokenSlotModel(
-        name: 'Axie 753908',
+        name: '#753908',
         img: 'images/axie/Axie-753908.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -585,7 +585,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s3: TokenSlotModel(
-        name: 'Axie 764427',
+        name: '#764427',
         img: 'images/axie/Axie-764427.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -611,7 +611,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s4: TokenSlotModel(
-        name: 'Axie 772270',
+        name: '#772270',
         img: 'images/axie/Axie-772270.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -639,7 +639,7 @@ final List<BinderPageModel> axieBinderPages = [
   ),
   BinderPageModel(
     s1: TokenSlotModel(
-        name: 'Axie 772319',
+        name: '#772319',
         img: 'images/axie/Axie-772319.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -665,7 +665,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s2: TokenSlotModel(
-        name: 'Axie 775334',
+        name: '#775334',
         img: 'images/axie/Axie-775334.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -691,7 +691,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s3: TokenSlotModel(
-        name: 'Axie 810392',
+        name: '#810392',
         img: 'images/axie/Axie-810392.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -717,7 +717,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s4: TokenSlotModel(
-        name: 'Axie 811313',
+        name: '#811313',
         img: 'images/axie/Axie-811313.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -745,7 +745,7 @@ final List<BinderPageModel> axieBinderPages = [
   ),
   BinderPageModel(
     s1: TokenSlotModel(
-        name: 'Axie 811495',
+        name: '#811495',
         img: 'images/axie/Axie-811495.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -771,7 +771,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s2: TokenSlotModel(
-        name: 'Axie 812449',
+        name: '#812449',
         img: 'images/axie/Axie-812449.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -797,7 +797,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s3: TokenSlotModel(
-        name: 'Axie 812459',
+        name: '#812459',
         img: 'images/axie/Axie-812459.png',
         collection: 'Axie Infinity',
         attributes: [
@@ -823,7 +823,7 @@ final List<BinderPageModel> axieBinderPages = [
           ),
         ]),
     s4: TokenSlotModel(
-        name: 'Axie 813104',
+        name: '#813104',
         img: 'images/axie/Axie-813104.png',
         collection: 'Axie Infinity',
         attributes: [

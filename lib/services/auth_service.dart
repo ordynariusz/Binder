@@ -13,6 +13,12 @@ class AuthService {
     return userCredentials.user.email;
   }
 
+  static Future<void> singInWithFacebook() async {
+    FacebookAuthProvider provider = FacebookAuthProvider();
+    userCredentials = await _auth.signInWithPopup(provider);
+    return userCredentials.user.email;
+  }
+
   static Future<String> signInWithEthereum() async {
     if (ethereum == null) {
       throw "No ethereum wallet found. Install Metamask or similar";

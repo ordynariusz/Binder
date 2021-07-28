@@ -1,8 +1,6 @@
-import 'package:auto_size_text/auto_size_text.dart';
-import 'package:binder/services/auth_service.dart';
 import 'package:binder/widgets/binder.dart';
+import 'package:binder/widgets/login_buttons.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_signin_button/flutter_signin_button.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class HomeScreen extends StatelessWidget {
@@ -12,6 +10,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     double deviceWidth = MediaQuery.of(context).size.width;
+
     if (deviceWidth >= 1280.0) {
       return Scaffold(
         body: _BinderIntroStandardWebView(),
@@ -50,27 +49,34 @@ class _BinderIntroMobileView extends StatelessWidget {
           image: AssetImage("images/bg-main.jpg"),
           fit: BoxFit.cover,
           colorFilter: new ColorFilter.mode(
-            Colors.black.withOpacity(0.5),
+            Colors.black.withOpacity(0.65),
             BlendMode.darken,
           ),
         ),
       ),
       child: Center(
         child: AspectRatio(
-            aspectRatio: 7.0 / 5.0,
+            aspectRatio: 8.0 / 5.0,
             child: Stack(
               children: [
                 Row(
                   children: [
+                    Spacer(
+                      flex: 1,
+                    ),
                     Expanded(
+                      flex: 8,
                       child: _Intro(),
                     ),
-                    Spacer(),
+                    Spacer(
+                      flex: 10,
+                    ),
                   ],
                 ),
                 Binder(
                   binderId: 'sorare',
                   showCoverText: false,
+                  autoOpen: false,
                 ),
               ],
             )),
@@ -172,34 +178,29 @@ class _Intro extends StatelessWidget {
               Expanded(
                 flex: 2,
                 child: Column(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Expanded(
-                      child: SignInButton(
-                        Buttons.Google,
-                        text: "Sign up with Google",
-                        onPressed: () => AuthService.singInWithGoogle(),
+                      flex: 5,
+                      child: FittedBox(
+                        child: GoogleButton(),
                       ),
                     ),
+                    Spacer(),
                     Expanded(
-                      child: SignInButton(
-                        Buttons.Facebook,
-                        text: "Sign up with Facebook",
-                        onPressed: () {},
+                      flex: 4,
+                      child: FittedBox(
+                        child: FacebookButton(),
                       ),
                     ),
-                    Expanded(
-                      child: SignInButton(
-                        Buttons.Twitter,
-                        text: "Sign up with Twitter",
-                        onPressed: () {},
-                      ),
+                    Spacer(
+                      flex: 1,
                     ),
                   ],
                 ),
               ),
               Spacer(
-                flex: 2,
+                flex: 3,
               ),
             ],
           ),
